@@ -454,3 +454,5 @@
 .action-btns button.delete:hover {
     color: var(--danger);
 }
+
+.kanban-column { min-width: 0; }
