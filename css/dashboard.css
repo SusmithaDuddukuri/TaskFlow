@@ -455,6 +455,7 @@
     color: var(--danger);
 }
 
+.kanban-column { min-width: 0; }
 .calendar-day { transition: background-color 0.2s ease; }
 /* TaskFlow improvement: dashboard widgets */
 
