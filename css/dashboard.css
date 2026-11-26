@@ -454,3 +454,5 @@
 .action-btns button.delete:hover {
     color: var(--danger);
 }
+
+.project-card { transition: transform 0.2s ease; }
