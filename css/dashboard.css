@@ -456,3 +456,9 @@
 }
 
 .kanban-column { min-width: 0; }
+.calendar-day { transition: background-color 0.2s ease; }
+/* TaskFlow improvement: dashboard widgets */
+
+/* Dashboard statistics presentation improvement */
+/* Project overview presentation improvement */
+/* Report layout presentation improvement */
