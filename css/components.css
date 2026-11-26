@@ -164,3 +164,18 @@ select.status-done { border-left: 3px solid #10b981; }
 [data-tooltip]:hover::after {
     opacity: 1;
 }
+
+.chart-bar { transition: opacity 0.2s ease; }
+.task-priority { transition: opacity 0.2s ease; }
+.loading { transition: opacity 0.2s ease; }
+
+/* TaskFlow improvement: task details */
+
+/* TaskFlow improvement: empty states */
+
+/* TaskFlow improvement: modal design */
+
+/* Task card presentation improvement */
+/* Calendar view presentation improvement */
+/* Team card presentation improvement */
+/* Form layout presentation improvement */

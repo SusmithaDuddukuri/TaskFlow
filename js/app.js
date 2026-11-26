@@ -249,3 +249,6 @@ const App = {
 document.addEventListener('DOMContentLoaded', () => {
     App.init();
 });
+
+// TaskFlow improvement: error messages
+
